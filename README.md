@@ -6,7 +6,7 @@ Este projeto é um site simples que utiliza um modelo de Machine Learning hosped
 
 ## 🌟 Demonstração  
 
-![Demonstração do Site](https://cesarlucasjunior.github.io/cat-or-dog.github.io/)  
+![Acesse](https://cesarlucasjunior.github.io/cat-or-dog.github.io/)  
 
 ---
 
